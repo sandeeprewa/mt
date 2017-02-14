@@ -10,7 +10,7 @@ public class HibernateController {
 	@RequestMapping(value="/test")
 	@ResponseBody
 	public String testRelationship(){
-	return "testing : controller is working";
+	return "testing : controller is workingg";
 	}
 	
 }
